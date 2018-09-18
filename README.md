@@ -7,6 +7,10 @@ meant to be used with `styled-components` to make styles more readable.
 This document guides developers through common scenarios when styling components.
 It discourages overusing helper/theming libraries and tries to pick ones which respect the css nature of styled-components.
 
+## Installation
+
+    $ yarn add usertech/styled-utils
+
 ## IDE Support
 
 [Syntax Highlighting](https://www.styled-components.com/docs/tooling#syntax-highlighting)
